@@ -152,7 +152,7 @@ export const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
         <a href="" className="navbar-brand p-0">
           <h1 className="text-primary m-0" style={{ fontFamily: 'Metal Mania', fontSize: 40 }}>
-            <i className="fa fa-utensils me-3" />
+            <img src="./img/logo_use1.png" alt="" style={{width:60 , height:70, borderRadius:60}}/> {' '}
             Quidditch Chronicles
           </h1>
           {/* <img src="img/logo.png" alt="Logo"> */}

@@ -16,9 +16,20 @@ export const EventList = () => {
   useEffect(() => {
     getEvents();
   }, []);
-
   return (
     <>
+    <div className="container-xxl py-5 bg-dark hero-header2 mb-5" style={{marginTop:100}}>
+      <div className="container my-5 py-5">
+        <div className="row align-items-center ">
+          <div className=" text-center ">
+            <h1 className=" text-white animated slideInCenter" style={{ fontFamily: 'Metal Mania', fontSize:80, marginBlockStart:200}}>
+              QUIDDITCH PREMIER LEAGUE
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+
       <div
         className="text-center wow fadeInUp"
         data-wow-delay="0.1s"
@@ -46,15 +57,16 @@ export const EventList = () => {
         >
           {events?.map((event) => {
             return (
-              <div className="service-item rounded pt-3">
+              <div className="service-item rounded pt-3" style={{width:500 , justifyContent:'center'}}>
                 <div className="card border-0 shadow-sm">
                   <img
-                    src="img/event1.png"
+                    src="./img/qpl2_mod.png"
                     className="card-img-top rounded-0"
                     alt="..."
+                    style={{width:500, height:500}}
                   />
                   <div className="card-body">
-                    <h5 className="card-title mb-0">{event.eventDate}</h5>
+                    <h5 className="card-title mb-0" >{event.eventDate}</h5>
                     <p className="card-text">{event.venue}</p>
                     <Link
                       to={`/event/details/${event._id}`}
@@ -64,7 +76,7 @@ export const EventList = () => {
                     </Link>
                   </div>
                 </div>
-              </div>
+              </div> 
             );
           })}
         </div>

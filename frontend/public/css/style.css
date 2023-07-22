@@ -169,11 +169,18 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(70, 17, 17, .4), rgba(70, 17, 17, .4)), url(../img/hp8.jpg);
+    background: linear-gradient(rgba(70, 17, 17, .4), rgba(70, 17, 17, .4)), url(../img/hp8.jpg) ;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.hero-header2{
+    background: linear-gradient(rgba(70, 17, 17, .4), rgba(70, 17, 17, .4)), url(../img/hp6_mod1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
 .hero-header img {
     animation: imgRotate 50s linear infinite;

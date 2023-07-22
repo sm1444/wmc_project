@@ -197,8 +197,8 @@ export const WelcomeComponent = () => {
             About Us
           </h5>
           <h1 className="mb-4" style={{ fontFamily: "Metal Mania", fontSize: 70 }}>
-            Welcome to <i className="fa fa-utensils text-primary me-2" />
-            Quidditch Chronicles
+            Welcome to {' '} Quidditch Chronicles {' '}
+            <img src="./img/logo_use1.png" alt="" style={{width:90, height:90}}/>
           </h1>
           <p className="mb-4" style={{ fontFamily: "Calibri", fontSize: 20 }}>
             Ready to dive into the heart-pounding action of Quidditch matches? Look no further!
