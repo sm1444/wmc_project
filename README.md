@@ -27,7 +27,7 @@ Quidditch chronicles is a website where users can buy tickets for quidditch matc
 
 #### Live App: https://lakeshowtix.now.sh/
 
-Client Github Repo: https://github.com/matrayu/lakeshow-app
+Client Github Repo: https://github.com/sm1444/wmc_project.git
 <hr>
 
 ## Demo Credentials
