@@ -1,1 +1,3 @@
-# wmc_project problem-statement-2 QUIDDITCH CHRONICLES⚫⚫⚫⚫⚫
+WMC Project Quiddicth Chronicles
+
+This is a ticket booking portal
