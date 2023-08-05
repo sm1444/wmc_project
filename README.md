@@ -35,8 +35,8 @@ Client Github Repo: https://github.com/sm1444/wmc_project.git
 ##### User Login Mail: ron@gmail.com
 ##### User Login P/W: ron123
 
-##### admin Login Mail: ron@gmail.com
-##### admin Login P/W: ron123
+##### admin Login Mail: shalvimodi@gmail.com
+##### admin Login P/W: shalvi@123
 
 
 <hr>
