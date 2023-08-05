@@ -2,10 +2,7 @@
   Quidditch chronicles is a dedicated online platform that represtnts quidditch teams and provides an immersive experience for the fans⚫⚫⚫
 </p>
 
-<//technologies used
-//demo credentials
-//features
-//links>
+
 
 
 ## Table of Contents
