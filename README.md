@@ -1,5 +1,5 @@
 <p align="center">
-  Quidditch chronicles is a dedicated online platform that represtnts quidditch teams and provides an immersive experience for the fans⚫⚫⚫
+  Quidditch chronicles is a dedicated online platform that represents quidditch teams and provides an immersive experience for the fans⚫⚫⚫
 </p>
 
 
